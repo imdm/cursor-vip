@@ -60,10 +60,10 @@ cursor-vip
 3. 在相关 cursor 文章或视频下面评论 例如："可以配合 github 的 [你的github名字]/cursor-vip 低价或白嫖 Pro"
 ---
 ### Star History
-<a href="https://star-history.com/#kingparks/cursor-vip&Date">
+<a href="https://star-history.com/#imdm/cursor-vip&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
  </picture>
 </a>
