@@ -12,11 +12,11 @@
 
 方式1：通过 ghp.ci 代理脚本
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/imdm/cursor-vip/releases/download/latest/install.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
 ```
 方式2：通过 GitHub 脚本
 ```bash
-bash <(curl -Lk https://github.com/imdm/cursor-vip/releases/download/latest/i.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
 ```
 方式3：手动下载二进制文件
 > 从 [release](https://github.com/kingparks/cursor-vip/releases) 页下载对应操作系统的二进制文件
@@ -60,10 +60,10 @@ cursor-vip
 3. 在相关 cursor 文章或视频下面评论 例如："可以配合 github 的 [你的github名字]/cursor-vip 低价或白嫖 Pro"
 ---
 ### Star History
-<a href="https://star-history.com/#imdm/cursor-vip&Date">
+<a href="https://star-history.com/#kingparks/cursor-vip&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
  </picture>
 </a>
