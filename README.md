@@ -12,14 +12,14 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
+bash <(curl -Lk https://github.com/imdm/cursor-vip/releases/download/latest/i.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
+bash <(curl -Lk https://ghp.ci/https://github.com/imdm/cursor-vip/releases/download/latest/install.sh) 9f8a54c48ccfbe363ddb9f4d748a5a1a
 ```
 Method 3: Manually download the binary file
-> download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
+> download the binary file for the corresponding operating system from the [release](https://github.com/imdm/cursor-vip/releases) page
  ```shell
 # MaxOS/Linux
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
@@ -61,10 +61,10 @@ By promoting cursor-vip, you can automatically get up to an unlimited amount of 
 3. Comment under cursor related articles or videos, for example: "Cooperate with Github's [Your Github Name]/cursor-vip for low-priced or freelancing Pro"
 ---
 ### Star History
-<a href="https://star-history.com/#kingparks/cursor-vip&Date">
+<a href="https://star-history.com/#imdm/cursor-vip&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=imdm/cursor-vip&type=Date" />
  </picture>
 </a>
